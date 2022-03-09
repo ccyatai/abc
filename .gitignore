@@ -1,0 +1,59 @@
+/target/
+!.mvn/wrapper/maven-wrapper.jar
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+*.sbt-idea-lock
+.run/
+target/
+.scalafmt.conf
+.gradle
+project/build.properties
+
+### NetBeans ###
+/nbproject/private/
+/build/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+### Raptor IO ###
+ConfigRoot
+ThreadLocalFlushBean.xml
+TomcatThreadPoolSizeBean
+XslTransformObjectCacheConfig64.xml
+clientconfig
+enevelopeapi
+esamscache
+nameservice
+velocity.log
+temp_persist_config_*.xml
+
+### Jenv ###
+.java-version
+raptor-upgrade-*.log
+.DS_Store
+.run/*
+
+### Vscode ###
+.vscode
+.bloop
+.metals
+.bsp/
+log
+/project/
+registerinfo.properties
+pom.xml.versionsBackup
